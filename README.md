@@ -1,3 +1,6 @@
+# 💫 About Me:
+Hi there, I'm Poshan 👋<br>Computer Engineering Student @ Kathmandu University | AI & Quant Finance Enthusiast<br><br>I am a passionate builder focused on practical software and exploring how technology shapes the global economy. Currently, I am bridging the gap between Computer Engineering and Quantum-enhanced Financial Intelligence.<br><br>🚀 What I'm Up To<br><br>Currently Working On: AI Financial Agents (autonomous systems for real-time market analysis) and Quantum Trading Research (optimizing portfolio management with quantum algorithms).<br><br>Currently Learning: Deep diving into Data Structures & Algorithms (DSA), Web Development, and Machine Learning.<br><br>Looking to Collaborate On: Innovative student projects, open-source fintech tools, and bold ideas involving AI or automation.<br><br>Seeking Mentorship In: Advanced programming, system design, and building scalable architectures.
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/poshan-karki-501b652a3) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:karkiposhan9@gmail.com) 
